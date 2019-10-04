@@ -5,8 +5,9 @@ Dataset source info can be found in OnlineNewsPopularity.names
 
 ### Looking for good predictive attributes
 
-
-
+<details>
+  <summary>pip list</summary>
+  
 | Package | Version |
 | --- | --- |
 -absl-py             |0.8.0
@@ -41,3 +42,4 @@ virtualenv           |16.7.5
 Werkzeug             |0.16.0
 wheel                |0.33.6
 wrapt                |1.11.2
+</details>
