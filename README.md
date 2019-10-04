@@ -1,5 +1,11 @@
-# News-Article-Shares-Prediction
- Linear Regression ML learning
+# Simple Linear Regression ML project
+
+End goal: predict number of shares of an article on Mashable.com  
+Dataset source info can be found in OnlineNewsPopularity.names
+
+### Looking for good predictive attributes
+
+
 
 | Package | Version |
 | --- | --- |
